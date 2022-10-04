@@ -20,7 +20,7 @@ This project includes all the codes and CSV files used in the AI/ML Skill India 
   
 ## 🚀 About Me
 
-My name is Deepak Kuamr Meena and I am a Mechanical Engineering sophomore at Delhi Technological University. I am also working as an AI/ML Intern at Elite Techno Groups. I'm passionate about different technologies like AI, ML and Data Science.
+My name is Deepak Kuamr Meena and I am a Mechanical Engineering sophomore at Delhi Technological University.I'm passionate about different technologies like AI, ML and Data Science.
 
 ## 🔗 Links
 
